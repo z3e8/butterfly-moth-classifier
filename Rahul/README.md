@@ -1,4 +1,4 @@
-# CNN Pipeline — Rahul Kakkar (Final Submission, 96.8% Public LB)
+# CNN Pipeline — Rahul Kishore (Final Submission, 96.8% Public LB)
 
 This folder contains the full convolutional neural network (CNN) pipeline used
 for our final Kaggle submission. The single script `cnn_butterfly.py` trains a
