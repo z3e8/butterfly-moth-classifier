@@ -102,7 +102,7 @@ column names.
 
    ```python
    # Cell 2 — copy + unzip
-   !cp "/content/drive/MyDrive/ELEC 378 Final Project/project.zip" /content/
+   !cp "/content/drive/MyDrive/ELEC 378 Final Project/Rahul-CNN/project.zip" /content/
    !unzip -qo /content/project.zip -d /content/
    ```
 
@@ -116,11 +116,11 @@ column names.
    shutting down:
 
    ```python
-   !cp /content/elec-378-sp-26-final-project/submission.csv "/content/drive/MyDrive/ELEC 378 Final Project/"
-   !cp /content/elec-378-sp-26-final-project/best_cnn_model.pth "/content/drive/MyDrive/ELEC 378 Final Project/"
-   !cp /content/elec-378-sp-26-final-project/ema_cnn_model.pth "/content/drive/MyDrive/ELEC 378 Final Project/"
-   !cp /content/elec-378-sp-26-final-project/training_curves.png "/content/drive/MyDrive/ELEC 378 Final Project/"
-   !cp /content/elec-378-sp-26-final-project/confusion_matrix.png "/content/drive/MyDrive/ELEC 378 Final Project/"
+   !cp /content/elec-378-sp-26-final-project/submission.csv "/content/drive/MyDrive/ELEC 378 Final Project/Rahul-CNN/"
+   !cp /content/elec-378-sp-26-final-project/best_cnn_model.pth "/content/drive/MyDrive/ELEC 378 Final Project/Rahul-CNN/"
+   !cp /content/elec-378-sp-26-final-project/ema_cnn_model.pth "/content/drive/MyDrive/ELEC 378 Final Project/Rahul-CNN/"
+   !cp /content/elec-378-sp-26-final-project/training_curves.png "/content/drive/MyDrive/ELEC 378 Final Project/Rahul-CNN/"
+   !cp /content/elec-378-sp-26-final-project/confusion_matrix.png "/content/drive/MyDrive/ELEC 378 Final Project/Rahul-CNN/"
    ```
 
 ### Running locally
